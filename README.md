@@ -86,7 +86,3 @@ npm run build
 - Watchlists usam o asset type `watchlist`.
 - Temporadas usam os campos `number` e `year`.
 - Episódios usam `episodeNumber` e `releaseDate` em formato RFC3339 internamente.
-
-## Entrega
-
-Para concluir o desafio, basta enviar o link do seu repositório forkado com este código e as instruções de execução acima.
